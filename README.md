@@ -1,1 +1,2 @@
-# board-zerynth-pycom_fipy_v1
+# pycom_fipy_v1
+
