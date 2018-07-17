@@ -17,7 +17,7 @@ Pycom Fipy 1.0 features a Dual-Core `ESP32 microcontroller <https://espressif.co
 Pin Mapping
 ***********
 
-.. figure:: /custom/img/Pycom_FiPy_v1.0_pin_io.png
+.. figure:: /custom/img/Pycom_FiPy_v1.0_pin_io.jpg
    :align: center
    :figwidth: 100% 
    :alt: Pycom Fipy 1.0
