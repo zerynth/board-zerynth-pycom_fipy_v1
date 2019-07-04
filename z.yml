@@ -1,0 +1,16 @@
+---
+description: Add support for Pycom FiPy 1.0
+fullname: board.zerynth.pycom_fipy_v1
+info:
+    board: Pycom FiPy 1.0
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- espressif
+- esp32
+- board
+- Pycom
+- FiPy
+title: Pycom FiPy 1.0 Support Package
+...
